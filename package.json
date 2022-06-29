@@ -1,0 +1,18 @@
+{
+  "name": "rad-mint",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.5.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.3",
+    "hardhat": "^2.9.3",
+    "hardhat-deploy": "^0.11.1",
+    "solhint": "^3.3.7"
+  },
+  "dependencies": {
+  }
+}

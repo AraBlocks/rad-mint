@@ -1,4 +1,14 @@
-# Logs
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files (check them in after deploy)
+#cache
+#artifacts
+
+# Logs (all below is github node ignore)
 logs
 *.log
 npm-debug.log*
