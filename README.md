@@ -26,7 +26,7 @@ $ git commit -a -n -m "deployed on ethereum"
 ```
 
 ```
-Error: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"name":"ProviderError","code":-32000,"_isProviderError":true}, method="sendTransaction", transaction=undefined, code=INSUFFICIENT_FUNDS, version=providers/5.6.8)
-    at Logger.makeError (C:\Documents\code10\rad-mint\node_modules\@ethersproject\logger\src.ts\index.ts:261:28)
-...
+Deployed contract address: 0x64D58eB826EaF719ea4C1409Ec1c32EC84fF060A
+Successfully verified contract NFT on Etherscan.
+https://etherscan.io/address/0x64D58eB826EaF719ea4C1409Ec1c32EC84fF060A#code
 ```
