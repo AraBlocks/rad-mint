@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 
-contract NFT is ERC721Enumerable, Ownable {
+contract SPassB is ERC721Enumerable, Ownable {
 	string private _baseURIextended;
 
 	constructor(string memory name, string memory symbol)
